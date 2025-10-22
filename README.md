@@ -30,7 +30,7 @@ El proyecto sigue una **arquitectura en tres capas**:
 
 ---
 
-## Estructura del Proyecto
+## 📁 Estructura del Proyecto
 
 BibliotecaTP/  
 ├─ app/  
