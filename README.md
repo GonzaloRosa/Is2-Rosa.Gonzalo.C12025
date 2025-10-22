@@ -30,38 +30,42 @@ El proyecto sigue una **arquitectura en tres capas**:
 
 ---
 
-## 🗂 Estructura del Proyecto
+## Estructura del Proyecto
 
-BibliotecaTP/
-├─ app/
-│  ├─ business/
-│  │  └─ domain/
-│  │     ├─ __init__.py
-│  │     └─ biblioteca.py
-│  │
-│  ├─ dal/
-│  │  ├─ db/
-│  │  │  └─ models/
-│  │  │     ├─ libros_dal.py
-│  │  │     ├─ socios_dal.py
-│  │  │     └─ prestamos_dal.py
-│  │  │
-│  │  ├─ __init__.py
-│  │  └─ conexion.py
-│  │
-│  ├─ ui/
-│  │  └─ menu.py
-│  │
-│  ├─ main.py
-│  └─ data/
-│     └─ biblioteca.db   ← (Se genera automáticamente)
-│
-├─ docs/
-│  ├─ Diagrama UML Biblioteca.png
-│  └─ is2-Rosa.Gonzalo.C1.2025.docx
-│
-├─ venv/                  ← (Entorno virtual de Python)
-└─ README.md
+BibliotecaTP/  
+├─ app/  
+│ ├─ business/  
+│ │ └─ domain/  
+│ │ ├─ **init**.py  
+│ │ └─ biblioteca.py  
+│ │  
+│ ├─ dal/  
+│ │ ├─ db/  
+│ │ │ └─ models/  
+│ │ │ ├─ libros_dal.py  
+│ │ │ ├─ socios_dal.py  
+│ │ │ └─ prestamos_dal.py  
+│ │ ├─ **init**.py  
+│ │ └─ conexion.py  
+│ │  
+│ ├─ ui/  
+│ │ └─ menu.py  
+│ │  
+│ ├─ main.py  
+│ └─ data/  
+│ └─ biblioteca.db ← Se genera automáticamente  
+│  
+├─ docs/  
+│ ├─ Diagrama UML Biblioteca.png  
+│ └─ is2-Rosa.Gonzalo.C1.2025.docx  
+│  
+├─ venv/ ← Entorno virtual de Python  
+└─ README.md`
+
+
+
+
+
 
 
 
