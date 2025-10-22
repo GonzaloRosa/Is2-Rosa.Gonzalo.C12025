@@ -53,18 +53,16 @@ BibliotecaTP/
 │  │  └─ menu.py
 │  │
 │  ├─ main.py
-│  │
 │  └─ data/
-│     └─ biblioteca.db   ← Se genera automáticamente
+│     └─ biblioteca.db   ← (Se genera automáticamente)
 │
 ├─ docs/
 │  ├─ Diagrama UML Biblioteca.png
 │  └─ is2-Rosa.Gonzalo.C1.2025.docx
 │
-├─ venv/
-│  (Entorno virtual de Python)
-│
+├─ venv/                  ← (Entorno virtual de Python)
 └─ README.md
+
 
 
 
